@@ -1,4 +1,4 @@
-package me.ssagan.sortaray.model.util;
+package me.ssagan.sortarrayapp.model.util;
 
 public class SortArray {
     public static int[] sortArray(int[] sourceArray) {
